@@ -144,44 +144,41 @@ PhonePe-Pulse-Data-Analysis/
 
 ## 📷 Project Preview
 
-### 1. Transaction Analysis
+### 1. App Opens — Trend in Karnataka
 
-![Transaction Analysis](images/transaction_analysis.jpeg)
+![App Opens Trend Karnataka](./images/App%20Opens%20Trend-Karnataka.png)
 
-### 2. State-wise Transactions
+### 2. Correlation Between Population Density and Transaction Volume
 
-![State-wise Transactions](images/statewise_transactions.jpeg)
+![Correlation between population density and transaction volume](./images/Correlation%20between%20population%20density%20and%20transaction%20volume.png)
 
-### 3. District-wise Analysis
+### 3. Device Brand Usage Ratio per State
 
-![District-wise Analysis](images/district_analysis.jpeg)
+![Device Brand Usage Ratio per State](./images/Device%20Brand%20Usage%20Ratio%20per%20State.png)
 
-### 4. Yearly Trends
+### 4. Population Density of Districts in Punjab
 
-![Yearly Trends](images/yearly_trends.jpeg)
+![Population Density of districts in Punjab](./images/Population%20Density%20of%20districts%20in%20Punjab.png)
 
-### 5. Quarterly Analysis
+### 5. Ratio of Users to Population by State
 
-![Quarterly Analysis](images/quarterly_analysis.jpeg)
+![Ratio of Users to Population by State](./images/Ratio%20of%20Users%20to%20Population%20by%20State.png)
 
-### 6. Payment Category Analysis
+### 6. Top District by Population per State
 
-![Payment Category Analysis](images/payment_category_analysis.jpeg)
+![Top District by Population Per State](./images/Top%20District%20by%20Population%20Per%20State.png)
 
-### 7. State-wise Payment Distribution
+### 7. Transaction Trend Over Time
 
-![State-wise Payment Distribution](images/state_payment_distribution.jpeg)
+![Transaction Trend Over Time](./images/Transaction%20Trend%20Over%20Time.png)
 
-### 8. User Growth Analysis
+### 8. Transaction Type Distribution — Delhi, Q2
 
-![User Growth Analysis](images/user_growth_analysis.jpeg)
+![Transaction Type Distribution Delhi Q2](./images/Transaction%20Type%20Distribution-Delhi%2CQ2.png)
 
-### 9. Transaction Amount Analysis
+### 9. Transaction Count and Amount Over Time for Karnataka
 
-![Transaction Amount Analysis](images/transaction_amount_analysis.jpeg)
-
-### 10. Overall Trends
-
+![Transaction count and amount over time for Karnataka](./images/Transaction%20count%20and%20amount%20over%20time%20for-Karnataka.png)
 ![Overall Trends](images/overall_trends.jpeg)
 
 ## 📌 Conclusion
