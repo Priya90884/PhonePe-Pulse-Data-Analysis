@@ -126,42 +126,63 @@ PhonePe-Pulse-Data-Analysis/
 │   └── PhonePe_Pulse_Analysis.ipynb
 │
 ├── images/
-│   └── dashboard-preview.png
+│   ├── transaction_analysis.jpeg
+│   ├── statewise_transactions.jpeg
+│   ├── district_analysis.jpeg
+│   ├── yearly_trends.jpeg
+│   ├── quarterly_analysis.jpeg
+│   ├── payment_category_analysis.jpeg
+│   ├── state_payment_distribution.jpeg
+│   ├── user_growth_analysis.jpeg
+│   ├── transaction_amount_analysis.jpeg
+│   └── overall_trends.jpeg
 │
 └── README.md
 ```
 
 *This is a suggested structure. Update the filenames and folders to match the files actually present in your repository. Do not upload restricted or unnecessarily large raw datasets.*
 
-## 🚀 How to Explore the Project
-
-1. Open the Jupyter Notebook in the `notebooks` folder.
-2. Review the data-loading and exploration steps.
-3. Follow the data quality checks and aggregation logic.
-4. Explore the transaction, ATV, device adoption, and app usage analyses.
-5. Review the visualizations and findings.
-
-If you run the notebook locally, install the required libraries and update the dataset paths to match your local folder structure.
-
-Example:
-
-```bash
-pip install pandas openpyxl matplotlib seaborn jupyter
-```
-
-Only install the visualization libraries required by your actual notebook.
-
 ## 📷 Project Preview
 
-Add screenshots of your actual analysis and visualizations to the `images` folder, then display them here.
+### 1. Transaction Analysis
 
-Example Markdown:
+![Transaction Analysis](images/transaction_analysis.jpeg)
 
-```markdown
-![PhonePe Transaction Analysis](images/dashboard-preview.png)
-```
+### 2. State-wise Transactions
 
-Replace the example filename with the actual image filename in your repository.
+![State-wise Transactions](images/statewise_transactions.jpeg)
+
+### 3. District-wise Analysis
+
+![District-wise Analysis](images/district_analysis.jpeg)
+
+### 4. Yearly Trends
+
+![Yearly Trends](images/yearly_trends.jpeg)
+
+### 5. Quarterly Analysis
+
+![Quarterly Analysis](images/quarterly_analysis.jpeg)
+
+### 6. Payment Category Analysis
+
+![Payment Category Analysis](images/payment_category_analysis.jpeg)
+
+### 7. State-wise Payment Distribution
+
+![State-wise Payment Distribution](images/state_payment_distribution.jpeg)
+
+### 8. User Growth Analysis
+
+![User Growth Analysis](images/user_growth_analysis.jpeg)
+
+### 9. Transaction Amount Analysis
+
+![Transaction Amount Analysis](images/transaction_amount_analysis.jpeg)
+
+### 10. Overall Trends
+
+![Overall Trends](images/overall_trends.jpeg)
 
 ## 📌 Conclusion
 
